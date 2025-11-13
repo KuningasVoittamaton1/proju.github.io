@@ -10,8 +10,9 @@ Ajax proju APIa hyödyntäen
 ---
 
 ## Verkkolinkit
-Julkaistu sovellus: https://example.netlify.app  
-Videoesittely: 
+Julkaistu sovellus: https://kuningasvoittamaton1.github.io/proju.github.io/osakehaku.html
+
+Videoesittely: tulossa myöhemmin
 
 ---
 
@@ -84,7 +85,7 @@ Sovellus:
 
 # Tunnetut virheet/bugit
 - Joidenkin symbolien kohdalla logo ei ole saatavilla  
-- Yrityksen kuvaus boxin avattaessa footer tms tulee tekstin päälle (en tiedä miten sen saisi korjattua)
+- Yrityksen kuvaus boxin avattaessa footer tms tulee tekstin päälle sivua isommaksi zoomatessa(en tiedä miten sen saisi korjattua)
 
 ---
 
@@ -116,6 +117,6 @@ Käytetyt teknologiat ja niiden rooli:
 | **CSS3** | Tumma ulkoasu ja animaatiot |
 | **JavaScript (native)** | AJAX-kutsut, DOM-manipulaatio, dynaamiset event handlerit |
 | **XMLHttpRequest** | API-kyselyt ilman kirjastoja |
-| **Netlify** | Julkaisu |
+| **Netlify** | Julkaisu mutta ei tunnu toimivan oikein |
 | **GitHub** | Versionhallinta ja repositorio |
 
