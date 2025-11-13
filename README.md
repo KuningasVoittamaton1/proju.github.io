@@ -120,3 +120,16 @@ Käytetyt teknologiat ja niiden rooli:
 | **Netlify** | Julkaisu mutta ei tunnu toimivan oikein |
 | **GitHub** | Versionhallinta ja repositorio |
 
+
+Lähteet:
+MDN Web Docs
+Financial Modeling Prep API 
+Stack Overflow
+CSS Tricks
+W3Schools
+
+Lähteitä on hankala merkata laurean ohjeistuksen mukaan koska olen katsonut monesta paikasta ohjeita miten saisin mitäkin tehtyä ja yrittänyt yhdistellä oppimaani.
+
+CSS:ään käytetty hieman chatgpt:tä auttamaan muotoilullisia asioita tehtäessä jotta saisin sivusta hieman enemmän omaan silmään sopivan, 
+olen myös pyytänyt sitä kertomaan mitä osa netistä löytämäni koodi tekee jotta voin kirjoittaa ne omalla tavallani.
+
